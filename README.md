@@ -8,4 +8,4 @@ The process of extracting features is done in four stages, each of which contain
 
 You can access this article through the following link:
 
-[Air pollution measurement based on hybrid convolutional neural network with spatial-and-channel attention mechanism - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0957417423014239#:~:text=Wang%2C et al. (2019) proposed a two-channel weighted,connections on different parts of the environmental image.)
+[Air pollution measurement based on hybrid convolutional neural network with spatial-and-channel attention mechanism](https://doi.org/10.1016/j.eswa.2023.120921)
